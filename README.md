@@ -30,3 +30,8 @@ This project on Bank Management System involves of all the work as mentione belo
         bank account and transaction. In short, this projects mainly focus on CRUD. There’s 
         an external database used in this mini project to save user’s data permanently.
 
+## Language Used
+
+    --> Python
+    --> Pandas
+    --> SQLAlchemy
