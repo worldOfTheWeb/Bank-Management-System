@@ -1,0 +1,27 @@
+***Bank Management System***
+
+--> Login/Create a bank account
+	--> First check for existing user (if yes: load menu) (else: create a new account using user details)
+
+--> Credit and Debit amount
+	--> Once user created or logged in ask for Credit/Debit amount.
+	--> If credit: add amount to the total amount
+	--> If debit: debit amount from the total amount (check: if provided amount by user is greater than total balance)
+	--> In either case once completed return the total balance left
+
+--> Balance inquiry
+	--> Show total balance to user when passed
+	
+--> View Transaction logs
+	--> Need to show history of transactions	
+	
+--> Money transfer
+	--> Transfer money from one user to another
+	
+	
+Link --> https://copyassignment.com/bank-management-system-project-in-python/
+
+
+
+
+
