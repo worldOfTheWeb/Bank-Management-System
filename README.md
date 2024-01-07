@@ -2,7 +2,7 @@
 
 ## Overview
 
-The goal of this project is to build a fully working Bank system based on real scenarios. The project involves loading data in Database using Python and MySQL, transforming the data and loading it back to the database.
+The goal of this project is to build a fully working Bank system based on real scenarios. The project involves loading data in Database using Python, Pandas and SQLAlchemy transforming the data and loading it back to the database.
 
 
 ## Project Goals
